@@ -102,7 +102,7 @@ Found a bug? Have a feature idea? PRs and issues are welcome. This started as a 
 
 ## 📄 License
 
-MIT — use it, break it, ship it.
+MIT — use it, break it, ship it. 
 
 ---
 
